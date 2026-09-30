@@ -10,6 +10,7 @@ public class Main {
 		System.out.print("i"); // stampanje
 		System.out.print("programiranje");
 		
+		
 		// komentar u jednom redu
 		
 		/*
